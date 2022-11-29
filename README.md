@@ -35,5 +35,5 @@ jupyter notebook dlnd_tv_script_generation.ipynb
 This will open the iPython Notebook software in your browser.
 
 ### Data
-The data for this project is present within the `data` folder. 
+The data for this project is present within the `data` folder in udacity instructor repository [https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-tv-script-generation/data]. 
 
